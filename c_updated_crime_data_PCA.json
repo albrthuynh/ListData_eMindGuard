@@ -1,0 +1,1281 @@
+{
+    "results": [
+        {
+            "zip_code": 60647,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                48,
+                37,
+                20,
+                14,
+                69,
+                4,
+                54.47915445121361
+            ]
+        },
+        {
+            "zip_code": 60639,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                87,
+                78,
+                54,
+                67,
+                7,
+                21,
+                65.34120882182464
+            ]
+        },
+        {
+            "zip_code": 60707,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                90,
+                18,
+                42,
+                68,
+                49,
+                74,
+                96.16158657145927
+            ]
+        },
+        {
+            "zip_code": 60622,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                70,
+                3,
+                91,
+                10,
+                7,
+                36,
+                34.171494739802114
+            ]
+        },
+        {
+            "zip_code": 60651,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                60,
+                61,
+                23,
+                99,
+                82,
+                15,
+                29.55797602628991
+            ]
+        },
+        {
+            "zip_code": 60611,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                14,
+                49,
+                19,
+                2,
+                91,
+                93,
+                42.70565406241215
+            ]
+        },
+        {
+            "zip_code": 60638,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                32,
+                33,
+                3,
+                58,
+                15,
+                21,
+                15.252719568017334
+            ]
+        },
+        {
+            "zip_code": 60652,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                73,
+                18,
+                64,
+                80,
+                57,
+                44,
+                51.84776003733505
+            ]
+        },
+        {
+            "zip_code": 60626,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                39,
+                43,
+                75,
+                7,
+                53,
+                76,
+                16.951510538200193
+            ]
+        },
+        {
+            "zip_code": 60615,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                27,
+                56,
+                16,
+                94,
+                25,
+                26,
+                56.16802943113481
+            ]
+        },
+        {
+            "zip_code": 60621,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                48,
+                70,
+                52,
+                41,
+                14,
+                96,
+                25.54455903567684
+            ]
+        },
+        {
+            "zip_code": 60645,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                60,
+                36,
+                4,
+                42,
+                46,
+                1,
+                35.72571087317331
+            ]
+        },
+        {
+            "zip_code": 60643,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                72,
+                61,
+                68,
+                95,
+                24,
+                87,
+                100.0
+            ]
+        },
+        {
+            "zip_code": 60660,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                26,
+                69,
+                26,
+                99,
+                82,
+                52,
+                33.99659537678457
+            ]
+        },
+        {
+            "zip_code": 60640,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                39,
+                77,
+                94,
+                79,
+                30,
+                26,
+                40.01382714077077
+            ]
+        },
+        {
+            "zip_code": 60614,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                81,
+                26,
+                47,
+                10,
+                68,
+                15,
+                33.42337353531151
+            ]
+        },
+        {
+            "zip_code": 60631,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                33,
+                12,
+                75,
+                18,
+                83,
+                50,
+                58.315764144131236
+            ]
+        },
+        {
+            "zip_code": 60646,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                71,
+                73,
+                71,
+                100,
+                75,
+                29,
+                16.825208994255288
+            ]
+        },
+        {
+            "zip_code": 60628,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                15,
+                88,
+                17,
+                26,
+                11,
+                26,
+                31.083344373241516
+            ]
+        },
+        {
+            "zip_code": 60625,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                11,
+                88,
+                92,
+                92,
+                58,
+                45,
+                38.07805426532057
+            ]
+        },
+        {
+            "zip_code": 60641,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                57,
+                18,
+                38,
+                59,
+                76,
+                35,
+                39.93969134675572
+            ]
+        },
+        {
+            "zip_code": 60657,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                30,
+                39,
+                27,
+                26,
+                94,
+                14,
+                62.26214589412908
+            ]
+        },
+        {
+            "zip_code": 60636,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                46,
+                74,
+                27,
+                23,
+                9,
+                59,
+                29.742471233580705
+            ]
+        },
+        {
+            "zip_code": 60649,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                14,
+                25,
+                10,
+                24,
+                10,
+                6,
+                46.502045044089
+            ]
+        },
+        {
+            "zip_code": 60617,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                51,
+                35,
+                16,
+                79,
+                26,
+                39,
+                19.967786208374836
+            ]
+        },
+        {
+            "zip_code": 60633,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                24,
+                66,
+                47,
+                84,
+                38,
+                25,
+                20.897774851226124
+            ]
+        },
+        {
+            "zip_code": 60007,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary"
+            ],
+            "crime_value": [
+                16,
+                87,
+                67,
+                54,
+                92,
+                95
+            ]
+        },
+        {
+            "zip_code": 60612,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                75,
+                40,
+                64,
+                58,
+                75,
+                24,
+                6.535147718852205
+            ]
+        },
+        {
+            "zip_code": 60604,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                45,
+                82,
+                6,
+                58,
+                46,
+                43,
+                26.84628256558932
+            ]
+        },
+        {
+            "zip_code": 60624,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                14,
+                82,
+                90,
+                23,
+                64,
+                86,
+                35.866821085080645
+            ]
+        },
+        {
+            "zip_code": 60656,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                97,
+                78,
+                63,
+                57,
+                82,
+                95,
+                46.342852681318
+            ]
+        },
+        {
+            "zip_code": 60644,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                53,
+                38,
+                15,
+                29,
+                94,
+                61,
+                37.39582758473929
+            ]
+        },
+        {
+            "zip_code": 60655,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                71,
+                24,
+                49,
+                16,
+                55,
+                47,
+                17.400893644010637
+            ]
+        },
+        {
+            "zip_code": 60603,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                98,
+                80,
+                67,
+                9,
+                12,
+                56,
+                45.58369503248341
+            ]
+        },
+        {
+            "zip_code": 60605,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                75,
+                51,
+                70,
+                65,
+                68,
+                11,
+                37.095907251057795
+            ]
+        },
+        {
+            "zip_code": 60653,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                99,
+                70,
+                56,
+                57,
+                69,
+                93,
+                39.38246774497051
+            ]
+        },
+        {
+            "zip_code": 60609,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                87,
+                61,
+                51,
+                51,
+                50,
+                92,
+                35.8285021813061
+            ]
+        },
+        {
+            "zip_code": 60666,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                45,
+                73,
+                22,
+                75,
+                12,
+                89,
+                13.40944274498219
+            ]
+        },
+        {
+            "zip_code": 60618,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                77,
+                97,
+                45,
+                83,
+                60,
+                75,
+                1.0
+            ]
+        },
+        {
+            "zip_code": 60616,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                87,
+                1,
+                70,
+                5,
+                20,
+                52,
+                33.7320117806654
+            ]
+        },
+        {
+            "zip_code": 60602,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                22,
+                20,
+                5,
+                86,
+                71,
+                81,
+                12.873559039565116
+            ]
+        },
+        {
+            "zip_code": 60601,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                48,
+                37,
+                20,
+                14,
+                69,
+                4,
+                30.318493643188226
+            ]
+        },
+        {
+            "zip_code": 60608,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                16,
+                77,
+                40,
+                34,
+                59,
+                39,
+                30.495357535363887
+            ]
+        },
+        {
+            "zip_code": 60607,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                49,
+                54,
+                95,
+                12,
+                46,
+                96,
+                47.40524351766453
+            ]
+        },
+        {
+            "zip_code": 60661,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                39,
+                44,
+                36,
+                23,
+                5,
+                27,
+                45.18718857904297
+            ]
+        },
+        {
+            "zip_code": 60606,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                24,
+                26,
+                92,
+                55,
+                82,
+                92,
+                60.85212837186927
+            ]
+        },
+        {
+            "zip_code": 60827,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                79,
+                17,
+                27,
+                100,
+                61,
+                38,
+                42.79744240226241
+            ]
+        },
+        {
+            "zip_code": 60630,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                68,
+                21,
+                6,
+                64,
+                28,
+                55,
+                27.840638548952686
+            ]
+        },
+        {
+            "zip_code": 60642,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                37,
+                73,
+                45,
+                60,
+                57,
+                23,
+                42.211709930464934
+            ]
+        },
+        {
+            "zip_code": 60659,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                55,
+                18,
+                29,
+                57,
+                5,
+                51,
+                38.094266800540595
+            ]
+        },
+        {
+            "zip_code": 60981,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary"
+            ],
+            "crime_value": [
+                48,
+                10,
+                79,
+                55,
+                12,
+                52
+            ]
+        },
+        {
+            "zip_code": 60634,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                63,
+                20,
+                5,
+                19,
+                58,
+                93,
+                20.199081564752326
+            ]
+        },
+        {
+            "zip_code": 60613,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                83,
+                82,
+                74,
+                85,
+                8,
+                79,
+                38.45168218900643
+            ]
+        },
+        {
+            "zip_code": 60610,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                19,
+                57,
+                21,
+                78,
+                69,
+                14,
+                36.910371600331956
+            ]
+        },
+        {
+            "zip_code": 60654,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                26,
+                44,
+                84,
+                66,
+                83,
+                26,
+                44.83405175101608
+            ]
+        },
+        {
+            "zip_code": 60632,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                67,
+                3,
+                89,
+                50,
+                46,
+                64,
+                23.90383511244561
+            ]
+        },
+        {
+            "zip_code": 60623,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                78,
+                5,
+                71,
+                67,
+                78,
+                49,
+                46.19366573806275
+            ]
+        },
+        {
+            "zip_code": 60629,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                31,
+                31,
+                32,
+                60,
+                51,
+                27,
+                27.805239284572266
+            ]
+        },
+        {
+            "zip_code": 60620,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                90,
+                47,
+                49,
+                67,
+                18,
+                63,
+                41.7600984758639
+            ]
+        },
+        {
+            "zip_code": 60637,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                71,
+                19,
+                86,
+                50,
+                44,
+                2,
+                31.86691195940128
+            ]
+        },
+        {
+            "zip_code": 60619,
+            "crime_type": [
+                "Robbery",
+                "Homicide",
+                "Sexual Assualt",
+                "Aggravated Assault",
+                "Motor Vehicle Theft",
+                "Burglary",
+                "PCA Value"
+            ],
+            "crime_value": [
+                25,
+                3,
+                96,
+                89,
+                93,
+                86,
+                49.20546662701116
+            ]
+        }
+    ]
+}
